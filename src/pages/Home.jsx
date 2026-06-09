@@ -16,7 +16,7 @@ function Home() {
         </a>
 
         <a
-          href="https://linkedin.com/in/aliekinayhan"
+          href="https://linkedin.com/in/ali-ekin-ayhan"
           target="_blank"
           rel="noreferrer"
           className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-500 transition-colors"
